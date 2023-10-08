@@ -2,6 +2,7 @@ print("gomel")
 i = "p"
 print("LG"+"p"+"8")
 print(i)
+print("From HP EliteBook from Windows11!!!")
 
 
 def my_def(a, b):
